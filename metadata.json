@@ -1,0 +1,8 @@
+{
+  "name": "AI-Powered Smart Todo",
+  "description": "A sophisticated task management application integrated with Supabase for real-time data and Gemini AI for task prioritization and motivation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
